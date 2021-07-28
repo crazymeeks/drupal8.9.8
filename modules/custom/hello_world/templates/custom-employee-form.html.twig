@@ -1,0 +1,27 @@
+<h3>Hello Form custom twig form</h3>
+{{ form.form_build_id }}
+{{ form.form_token }}
+{{ form.form_id }}
+<div class="row">
+  <div class="col-md-6">
+        <div class="form-group">
+            {{ form.first_name }}
+        </div>
+        <div class="form-group">
+            {{ form.last_name }}
+        </div>
+        <div class="form-group">
+            {{ form.email_address }}
+        </div>
+
+        <div class="form-group">
+            {{ form.pincode }}
+        </div>
+        <div class="form-group">
+            {{ form.employee_role }}
+        </div>
+        <div class="form-group">
+            {{ form.actions }}
+        </div>
+  </div>
+</div>

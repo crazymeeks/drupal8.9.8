@@ -1,0 +1,20 @@
+{{ attach_library('hello_world/hello_world-style') }}
+<h3 class="animated bounce">Rendered from twig template {{session_var.form_session}}</h3>
+<table>
+    <thead>
+        <tr>
+            <th>User ID</th>
+            <th>Username</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for user in users %}
+        <tr>
+            <td>{{user.id}}</td>
+            <td>{{user.username}}</td>
+            <td>{{user.email}}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>

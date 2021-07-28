@@ -1,0 +1,153 @@
+Looking for git in: git
+Using git 2.19.1 from git
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/modules/custom/hello_world/src/Form' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/modules/custom/hello_world/templates' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/.csslintrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/.editorconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/.eslintignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/.eslintrc.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/.gitattributes' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/.ht.router.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/.htaccess' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/INSTALL.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/LICENSE.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/README.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/autoload.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/composer.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/composer.lock' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/core' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/example.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/index.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/modules' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/profiles' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/robots.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/sites' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/themes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/update.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/vendor' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/web.config' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/modules/custom/hello_world/templates' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/var/www/web/tutorials/drupal-8.9.8/' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: /var/www/web/tutorials/drupal-8.9.8
+> git status -z -u
+> git show --textconv :modules/custom/hello_world/templates/custom-employee-form.html.twig
+> git show --textconv :.gitignore
+> git ls-files --stage -- /var/www/web/tutorials/drupal-8.9.8/modules/custom/hello_world/templates/custom-employee-form.html.twig
+> git ls-files --stage -- /var/www/web/tutorials/drupal-8.9.8/.gitignore
+> git check-ignore -v -z --stdin
+> git show --textconv :example.gitignore
+> git ls-files --stage -- /var/www/web/tutorials/drupal-8.9.8/example.gitignore
+> git show --textconv :.gitignore
+> git ls-files --stage -- /var/www/web/tutorials/drupal-8.9.8/.gitignore
+> git show --textconv :example.gitignore
+> git ls-files --stage -- /var/www/web/tutorials/drupal-8.9.8/example.gitignore
+> git show --textconv :.gitignore
+> git ls-files --stage -- /var/www/web/tutorials/drupal-8.9.8/.gitignore
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /var/www/web/tutorials/drupal-8.9.8/modules/custom/hello_world/templates/custom-employee-form.html.twig
+> git ls-files --stage -- /var/www/web/tutorials/drupal-8.9.8/.gitignore
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git

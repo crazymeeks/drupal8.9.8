@@ -1,0 +1,4 @@
+services:
+  hello_world.sample_form:
+    class: Drupal\hello_world\Form\HelloForm
+    arguments: ['@database']

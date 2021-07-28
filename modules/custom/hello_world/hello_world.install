@@ -1,0 +1,51 @@
+<?php
+
+function hello_world_schema() {
+    $schema['custom_employee'] = array(
+      'description' => 'Stores value in custom table',
+      'fields' => array(
+        'pid' => array(
+          'type' => 'serial',
+          'not null' => TRUE,
+          'description' => 'Primary Key: Unique id for employee',
+        ),
+        'first_name' => array(
+          'type' => 'varchar',
+          'length' => 255,
+          'not null' => TRUE,
+          'default' => '',
+          'description' => 'Name First name of a person.',
+        ),
+        'last_name' => array(
+          'type' => 'varchar',
+          'length' => 255,
+          'not null' => TRUE,
+          'default' => '',
+          'description' => 'Store last name of a person',
+        ),
+         'email' => array(
+          'type' => 'varchar',
+          'length' => 255,
+          'not null' => TRUE,
+          'default' => '',
+          'description' => 'Store email of a person',
+        ),
+        'role' => array(
+          'type' => 'varchar',
+          'length' => 255,
+          'not null' => TRUE,
+          'default' => '',
+          'description' => 'Store role of a person',
+        ),
+        'pincode' => array(
+          'type' => 'int',
+          'not null' => TRUE,
+          'default' => 0,
+          'description' => 'The pincode of his area',
+        ),
+      ),
+      'primary key' => array('pid'),
+    );
+   
+    return $schema;
+}

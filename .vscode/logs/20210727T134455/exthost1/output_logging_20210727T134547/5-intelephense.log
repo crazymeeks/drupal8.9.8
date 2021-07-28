@@ -1,0 +1,27 @@
+[Info  - 1:45:47 pm] Initialising intelephense 1.7.1
+[Info  - 1:45:47 pm] Initialised in 11 ms
+[Info  - 1:45:47 pm] Environment changed. Refreshing 1 in memory documents.
+[Warn  - 1:45:49 pm] file:///var/www/web/tutorials/drupal-8.9.8/core/modules/migrate_drupal/tests/fixtures/drupal6.php is over the maximum file size of 1000000 bytes.
+[Warn  - 1:45:49 pm] file:///var/www/web/tutorials/drupal-8.9.8/core/modules/migrate_drupal/tests/fixtures/drupal7.php is over the maximum file size of 1000000 bytes.
+[Info  - 1:45:49 pm] Indexing started.
+[Info  - 1:46:18 pm] Indexing ended. 11859 files indexed in 29s.
+[Info  - 1:46:18 pm] Writing state to /var/www/web/tutorials/drupal-8.9.8/.vscode/User/workspaceStorage/b5e60da79f6b1d275f83e725eff6eb38/bmewburn.vscode-intelephense-client/1db05283.
+[Info  - 1:46:20 pm] Wrote state in 1.8s.
+[Info  - 1:46:45 pm] Indexing started.
+[Info  - 1:46:45 pm] Indexing ended. 1 files indexed in 0s.
+[Info  - 2:13:32 pm] Indexing started.
+[Info  - 2:13:33 pm] Indexing ended. 46 files indexed in 0s.
+[Info  - 2:42:03 pm] Indexing started.
+[Info  - 2:42:03 pm] Indexing ended. 3 files indexed in 0s.
+[Info  - 2:42:06 pm] Indexing started.
+[Info  - 2:42:06 pm] Indexing ended. 1 files indexed in 0s.
+[Info  - 2:42:16 pm] Indexing started.
+[Info  - 2:42:16 pm] Indexing ended. 8 files indexed in 0s.
+[Info  - 2:42:16 pm] Indexing started.
+[Info  - 2:42:16 pm] Indexing ended. 2 files indexed in 0s.
+[Info  - 2:42:17 pm] Indexing started.
+[Info  - 2:42:18 pm] Indexing ended. 8 files indexed in 0s.
+[Info  - 2:42:18 pm] Indexing started.
+[Info  - 2:42:18 pm] Indexing ended. 2 files indexed in 0s.
+[Info  - 2:46:44 pm] Indexing started.
+[Info  - 2:46:44 pm] Indexing ended. 16 files indexed in 0s.

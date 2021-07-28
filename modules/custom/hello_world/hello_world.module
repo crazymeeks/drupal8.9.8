@@ -1,0 +1,44 @@
+<?php
+
+/**
+ * Implements hook_help().
+ * 
+ * Displays help and module information
+ * 
+ * @param $path Which part of the site we're using to display help
+ * @param $arg Array that holds the current path as returned from arg() function
+ */
+function hello_world_help($path, $arg) {
+    switch($path){
+        case "help.page.hello_world":
+            return '' . t('This is my first hook.' . '');
+            break;
+    }
+}
+
+
+/**
+ * Implements hook_form_FORM_ID_alter().
+ *
+function hello_world_form_hello_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $form_state, $form_id) {
+    
+    // override form value
+    $form['title']['#value'] = 'test';
+}*/
+
+/**
+ * Implements hook_theme().
+ */
+function hello_world_theme($existing, $type, $theme, $path) {
+    return [
+        'hello_listing' => [
+            'variables' => [
+                'users' => NULL,
+                'session_var' => NULL,
+            ]
+        ],
+        'custom_employee_form' => [
+            'render element' => 'form'
+        ]
+    ];
+}

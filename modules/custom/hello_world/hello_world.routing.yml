@@ -1,0 +1,25 @@
+hello_world.content:
+  path: '/hello'
+  defaults:
+    _controller: '\Drupal\hello_world\Controller\HelloController::content'
+    _title: 'Hello World'
+  requirements:
+    _permission: 'access content'
+
+hello_world.adminlisting:
+  path: '/admin/hello_world/listing'
+  defaults:
+    _controller: '\Drupal\hello_world\Controller\AdminController::listing'
+    _title: 'Hello World Module Data List'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE
+
+hello_world.form:
+  path: '/sample-form'
+  defaults:
+    _form: '\Drupal\hello_world\Form\HelloForm'
+    _title: 'Sample form'
+  requirements:
+    _permission: 'administer site configuration'

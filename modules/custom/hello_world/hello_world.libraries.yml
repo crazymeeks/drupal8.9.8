@@ -1,0 +1,4 @@
+hello_world-style:
+  css:
+    theme:
+      css/animate.min.css: {}

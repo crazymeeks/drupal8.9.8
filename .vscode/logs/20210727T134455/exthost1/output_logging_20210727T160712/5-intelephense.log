@@ -1,0 +1,9 @@
+[Info  - 4:07:12 pm] Initialising intelephense 1.7.1
+[Info  - 4:07:12 pm] Reading state from /var/www/web/tutorials/drupal-8.9.8/.vscode/User/workspaceStorage/b5e60da79f6b1d275f83e725eff6eb38/bmewburn.vscode-intelephense-client/1db05283.
+[Info  - 4:07:15 pm] Initialised in 2912 ms
+[Warn  - 4:07:17 pm] file:///var/www/web/tutorials/drupal-8.9.8/core/modules/migrate_drupal/tests/fixtures/drupal6.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:07:17 pm] file:///var/www/web/tutorials/drupal-8.9.8/core/modules/migrate_drupal/tests/fixtures/drupal7.php is over the maximum file size of 1000000 bytes.
+[Info  - 4:07:17 pm] Indexing started.
+[Info  - 4:07:18 pm] Indexing ended. 132 files indexed in 0s.
+[Info  - 4:07:18 pm] Writing state to /var/www/web/tutorials/drupal-8.9.8/.vscode/User/workspaceStorage/b5e60da79f6b1d275f83e725eff6eb38/bmewburn.vscode-intelephense-client/1db05283.
+[Info  - 4:07:20 pm] Wrote state in 2.4s.
